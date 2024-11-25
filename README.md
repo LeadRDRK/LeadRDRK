@@ -1,6 +1,6 @@
 i do native/web programming, game modding/reverse engineering
 
-rust addict (formerly C++ (vomit))
+rust/c/c++/javascript/typescript/java/kotlin/dart/python. currently addicted to rust (formerly C++ (vomit))
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeadRDRK&theme=holi)
 
